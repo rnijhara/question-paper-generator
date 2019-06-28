@@ -1,0 +1,52 @@
+[
+  {
+    "question_id": "Q1",
+    "difficulty": "easy",
+    "marks": 1
+  },
+  {
+    "question_id": "Q2",
+    "difficulty": "easy",
+    "marks": 2
+  },
+  {
+    "question_id": "Q3",
+    "difficulty": "medium",
+    "marks": 2
+  },
+  {
+    "question_id": "Q4",
+    "difficulty": "hard",
+    "marks": 9
+  },
+  {
+    "question_id": "Q5",
+    "difficulty": "easy",
+    "marks": 3
+  },
+  {
+    "question_id": "Q6",
+    "difficulty": "hard",
+    "marks": 7
+  },
+  {
+    "question_id": "Q7",
+    "difficulty": "medium",
+    "marks": 3
+  },
+  {
+    "question_id": "Q8",
+    "difficulty": "easy",
+    "marks": 3
+  },
+  {
+    "question_id": "Q9",
+    "difficulty": "medium",
+    "marks": 5
+  },
+  {
+    "question_id": "Q10",
+    "difficulty": "hard",
+    "marks": 5
+  }
+]
